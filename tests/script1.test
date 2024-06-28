@@ -1,0 +1,4 @@
+    |#!/bin/sh
+    |
+   3|echo 1
+   4|echo 2
